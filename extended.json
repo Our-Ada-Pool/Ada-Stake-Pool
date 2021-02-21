@@ -4,6 +4,7 @@
         "url_png_logo": "http://ouradapool.com/logo.png",
         "location": "Shawinigan, Canada",
         "social": {
-            "telegram_handle": "ouradapool"
+            "telegram_handle": "ouradapool",
+            "matrix_handle": "ouradapool"
         }
 }
