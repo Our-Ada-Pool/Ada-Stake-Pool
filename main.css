@@ -1,0 +1,39 @@
+@font-face {
+    font-family: RussoOne;
+    src: url(RussoOne-Regular.ttf);
+}
+body {
+    background-color: #CD0000;
+    color: #FFD900;
+    width: 800px;
+    margin: 100px auto;
+    text-align: center;
+    font-family: RussoOne;
+    text-transform: uppercase;
+}
+
+footer {
+    position: absolute;
+    bottom: 0;
+    left: 50%;
+    transform: translateX(-50%);
+}
+
+.content {
+}
+
+a:link {
+    color: #FFD900;
+}
+
+a:visited {
+    color: #FFD900;
+}
+
+a:hover {
+    color: #FFD900;
+}
+
+a:active {
+    color: #FFD900;
+}
